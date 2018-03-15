@@ -1,0 +1,34 @@
+html {
+  font-size: 10px;
+  font-family: 'Tahoma';
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: ghostwhite;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: -3px -3px 6px skyblue;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+  color: ghostwhite;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: black;
+  padding: 0 20px 20px 20px;
+  border: 5px solid skyblue;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
